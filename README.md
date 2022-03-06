@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RootX93
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java, javascript
+- 🌱 I’m currently learning html, java, javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
